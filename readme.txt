@@ -1,3 +1,2 @@
-Git is a version control system.
-Git has been changed
-123456
+ 这是陈玉的git_repository
+我将会在这里完成我的秘密工作
